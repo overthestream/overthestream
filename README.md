@@ -7,7 +7,7 @@
     
 - __Memo is better than my memory__
     - making an blog!
-    - ![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)
+    - [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)](https://www.instagram.com/overthestream/)
     
 - Sophomore at Korea University Dept. of Computer Science & Engineering
 
