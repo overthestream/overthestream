@@ -3,7 +3,7 @@
 ## I'm JeongHoon Rho ([overthestream]) 👨🏻‍💻
 
 - __Conanti Dabitur__
-    - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from 2020.12.29
+    - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from __2020.12.29__
     
 - __Memo is better than my memory__
     - making an blog!
