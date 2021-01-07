@@ -5,7 +5,7 @@
 - __Conanti Dabitur__
     - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from 2020.12.29
     
-- __Memo is better than memory__
+- __Memo is better than my memory__
     - making an blog!
     - ![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)
     
