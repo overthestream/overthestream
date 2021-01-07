@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**overthestream/overthestream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm 👨🏻‍💻
+#### JeongHoon Rho ([overthestream])
 
-Here are some ideas to get you started:
+Sophomore at Korea University Dept. of Computer Science & Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a Newbie for Computer Science, WEB, etc. 😭
+
+## I’m currently learning 📕
+Algorithm Learning and Problem Solving 
+
+Trying in various fileds (WEB, Android, Machine Learning, etc.)
+
+## Problem Solving 💻
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bln01)
+
+
+[overthestream]: https://github.com/overthestream
+[React]:https://github.com/facebook/react
