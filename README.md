@@ -13,6 +13,8 @@
 
 - Just a Newbie for Computer Science, WEB, etc. 😭
 
+- njhnjh02@naver.com
+
 ## I’m currently learning 📕
 - Algorithm Learning and Problem Solving 
 
