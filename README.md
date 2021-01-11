@@ -6,10 +6,10 @@
     - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from __2020.12.29__
     
 - __Memo is better than my memory__
-    - making an blog!
+    - making a blog using React.JS
     - [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)](https://www.instagram.com/overthestream/)
     
-- Sophomore at Korea University Dept. of Computer Science & Engineering
+- Sophomore @ Korea University Dept. of Computer Science & Engineering
 
 - Just a Newbie for Computer Science, WEB, etc. 😭
 
