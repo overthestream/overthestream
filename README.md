@@ -11,7 +11,7 @@
     
 - Sophomore @ Korea University Dept. of Computer Science & Engineering | 고려대학교 컴퓨터학과 20학번, 2학년
 
-- KU ALPS (Algorithm Learning & Problem Solving) Vice President | 고려대학교 알고리즈 학회 부회장
+- KU ALPS (Algorithm Learning & Problem Solving) Vice President | 고려대학교 알고리즘 학회 부회장
 
 - Just a Newbie for Computer Science, WEB, etc. 😭
 
