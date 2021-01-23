@@ -21,7 +21,7 @@
 - Trying in various fileds (WEB, Android, Machine Learning, etc.)
 
 ## I'm currently working on ⌨️
-- Golbang.dev
+- [Golbang.dev](https://github.com/golbang-dev)
 
 ## Problem Solving 💻
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bln01)
