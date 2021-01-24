@@ -6,7 +6,7 @@
     - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from __2020.12.29__
     
 - __Memo is better than my memory__
-    - [blog](overthestream.github.io)
+    - [overthestream.github.io](https://overthestream.github.io)
     - [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?logo=Instagram&link=https://www.instagram.com/overthestream/)](https://www.instagram.com/overthestream/)
     
 - Sophomore @ Korea University Dept. of Computer Science & Engineering | 고려대학교 컴퓨터학과 20학번, 2학년
