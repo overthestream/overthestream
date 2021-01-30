@@ -27,15 +27,15 @@
 ## I'm currently working on ⌨️
 - [Golbang.dev](https://github.com/golbang-dev)
 
+## Contact via ✉️
+
+njhnjh02@naver.com
+
 ## Problem Solving 💻
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bln01)
 
 ## Still Learning ✏️
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=overthestream)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact via 
-
-njhnjh02@naver.com
 
 [overthestream]: https://github.com/overthestream
 [PS]:https://github.com/overthestream/ps-boj
