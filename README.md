@@ -35,7 +35,7 @@
 
 ## Contact via 
 
-- njhnjh02@naver.com
+njhnjh02@naver.com
 
 [overthestream]: https://github.com/overthestream
 [PS]:https://github.com/overthestream/ps-boj
