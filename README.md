@@ -3,7 +3,7 @@
 ## I'm JeongHoon Rho ([overthestream]) 👨🏻‍💻
 
 - __Conanti Dabitur__
-    - __1 Day 1 [PS] (in [BOJ]) & 1 commit__ from __2020.12.29__
+    - __1 Day 1 commit__
     
 - __Memo is better than my memory__
     - [overthestream.github.io](https://overthestream.github.io)
@@ -38,5 +38,3 @@ njhnjh02@naver.com
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=overthestream)](https://github.com/anuraghazra/github-readme-stats)
 
 [overthestream]: https://github.com/overthestream
-[PS]:https://github.com/overthestream/ps-boj
-[BOJ]:https://acmicpc.net
