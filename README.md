@@ -6,10 +6,6 @@
 
 - KU ALPS (Algorithm Learning & Problem Solving) Vice President | 고려대학교 알고리즘 학회 부회장
 
-## I’m currently learning 📕
-
-- Web Front-End (Typescript, React, mobx)
-
 ## I'm currently working on ⌨️
 
 - [Golbang.dev](https://github.com/golbang-dev)
