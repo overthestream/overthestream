@@ -9,6 +9,7 @@
 ## I'm currently working on ⌨️
 
 - [Golbang.dev](https://github.com/golbang-dev)
+- [Maru](https://github.com/hyp3rflow/maru): Design System for Simpler Design
 
 ## Misc 💻
 
