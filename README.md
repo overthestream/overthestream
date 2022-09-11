@@ -8,9 +8,24 @@
 
 ## I'm currently working on ⌨️
 
-    -
+- DevKor : Korea Univ. sw development club
+    - running BE study 
+    - participating in project 
+
+## My works
+
+- ![hackathon platform server for 2022 KU hackathon](https://github.com/overthestream/connecthon-back/tree/develop)
+- KAIST madcamp 2021 winter
+- lots of toy projects for practice
+    
+
+## Tech stacks
+
+Typescript, mySQL, postgreSQL, mongoDB, ... 
 
 ## Misc 💻
+
+I am interested in BE, clean codes, MSA, DevOPS, ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=overthestream)](https://github.com/anuraghazra/github-readme-stats)
 
