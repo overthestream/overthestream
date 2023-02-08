@@ -8,9 +8,7 @@
 
 ## I'm currently working on ⌨️
 
-- DevKor : Korea Univ. sw development club
-    - running BE study 
-    - participating in project 
+- DevKor : Korea Univ. sw development club, president (2023)
 
 ## My works
 
